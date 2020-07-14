@@ -25,5 +25,7 @@ print("3. " + hobi3)
 pilih = raw_input("[?]Nomer: ")
 if pilih == "1":
         print("wah keren ya " + nama + "!" + "hobi kamu " + hobi1 + "!" + "semoga kamu menjadi " + faq1)
-if pilih == "2":                                                                                                                                                                print("wah keren ya " + nama + "!" + "hobi kamu " + hobi2 + "!" + "semoga kamu menjadi " + faq2)                                                                if pilih == "3":
+if pilih == "2":                                                                                                                                                                
+        print("wah keren ya " + nama + "!" + "hobi kamu " + hobi2 + "!" + "semoga kamu menjadi " + faq2)                                                                
+if pilih == "3":
         print("wah keren ya " + nama + "!" + "hobi kamu " + hobi3 + "!" + "semoga kamu menjadi " + faq3)
